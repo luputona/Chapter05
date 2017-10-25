@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()
+void main3()
 {
 	double rad = 0;
 	double area = 0;

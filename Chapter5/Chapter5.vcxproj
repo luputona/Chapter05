@@ -117,9 +117,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AutoConvOne.c" />
+    <ClCompile Include="ConvDiv.c" />
+    <ClCompile Include="HowChar.c" />
+    <ClCompile Include="literal.c" />
+    <ClCompile Include="OctHex.c" />
     <ClCompile Include="radOperator.cpp" />
     <ClCompile Include="sizeof.c" />
     <ClCompile Include="sizeofOperator.c" />
+    <ClCompile Include="String.c" />
+    <ClCompile Include="UsingG.c" />
+    <ClCompile Include="UsingS.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

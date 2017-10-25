@@ -24,5 +24,29 @@
     <ClCompile Include="radOperator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HowChar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="literal.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoConvOne.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvDiv.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="OctHex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingG.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingS.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="String.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
